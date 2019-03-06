@@ -424,9 +424,9 @@ use Kamille\Mvc\Layout\HtmlLayout;
 use Kamille\Mvc\LayoutProxy\DebugLayoutProxy;
 use Kamille\Mvc\Loader\FileLoader;
 use Kamille\Mvc\Renderer\PhpLayoutRenderer;
-use KamilleWidgets\FormWidget\FormWidget;
-use KamilleWidgets\FormWidget\Kris\KrisFormWidget;
-use KamilleWidgets\FormWidget\Kris\TemplateHelper\TemplateHelper;
+use Ling\KamilleWidgets\FormWidget\FormWidget;
+use Ling\KamilleWidgets\FormWidget\Kris\KrisFormWidget;
+use Ling\KamilleWidgets\FormWidget\Kris\TemplateHelper\TemplateHelper;
 
 require_once __DIR__ . "/../init.php";
 

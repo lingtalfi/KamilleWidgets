@@ -16,7 +16,7 @@ To install the KamilleWidgets
 
 ```bash
 cd /path/to/my/app
-uni import KamilleWidgets
+uni import Ling/KamilleWidgets
 ```
 
 

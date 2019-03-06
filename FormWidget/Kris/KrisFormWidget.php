@@ -1,11 +1,11 @@
 <?php
 
 
-namespace KamilleWidgets\FormWidget\Kris;
+namespace Ling\KamilleWidgets\FormWidget\Kris;
 
 
-use KamilleWidgets\FormWidget\FormWidget;
-use KamilleWidgets\FormWidget\Kris\TemplateHelper\TemplateHelperInterface;
+use Ling\KamilleWidgets\FormWidget\FormWidget;
+use Ling\KamilleWidgets\FormWidget\Kris\TemplateHelper\TemplateHelperInterface;
 
 
 class KrisFormWidget extends FormWidget

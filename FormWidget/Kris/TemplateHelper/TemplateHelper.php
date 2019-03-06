@@ -1,7 +1,7 @@
 <?php
 
 
-namespace KamilleWidgets\FormWidget\Kris\TemplateHelper;
+namespace Ling\KamilleWidgets\FormWidget\Kris\TemplateHelper;
 
 class TemplateHelper implements TemplateHelperInterface
 {

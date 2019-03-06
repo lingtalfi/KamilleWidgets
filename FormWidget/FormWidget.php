@@ -2,7 +2,7 @@
 
 
 
-namespace KamilleWidgets\FormWidget;
+namespace Ling\KamilleWidgets\FormWidget;
 
 
 
